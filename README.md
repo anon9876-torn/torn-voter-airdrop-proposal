@@ -1,4 +1,4 @@
-## Tornado cash Proposal #2: Lower vote quorum
+## Tornado cash Proposal #9: Airdrop to TORN Governance Voters
 
 ```
 npm install --dev
