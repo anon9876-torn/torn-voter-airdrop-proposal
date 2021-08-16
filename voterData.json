@@ -1,0 +1,1654 @@
+{
+    "0x41E06931E14c09ab705A3fAC97D0F865096f1Fe9": {
+        "votesDecimal": "300.594558519557403512",
+        "votesFloat": 300.59455,
+        "percentTotal": 0.001583797280748716,
+        "tornAwardedFloat": 79.1898640374358,
+        "tornAwardedERC20": "79189864037435800000"
+    },
+    "0x394c0cbDf12f687D33F53E898D881B73870bB982": {
+        "votesDecimal": "80.669831763403815437",
+        "votesFloat": 80.66983,
+        "percentTotal": 0.0004250398331987762,
+        "tornAwardedFloat": 21.25199165993881,
+        "tornAwardedERC20": "21251991659938810000"
+    },
+    "0x33A316107f71909b7d638F7dd40713c8bbE2D684": {
+        "votesDecimal": "612.186573787070526276",
+        "votesFloat": 612.18657,
+        "percentTotal": 0.0032255389356755913,
+        "tornAwardedFloat": 161.27694678377955,
+        "tornAwardedERC20": "161276946783779550000"
+    },
+    "0x14c90b59F95B9405113Dfedbae88fDD20C29ee36": {
+        "votesDecimal": "234.028389460443438690",
+        "votesFloat": 234.02838,
+        "percentTotal": 0.0012330679709995646,
+        "tornAwardedFloat": 61.653398549978235,
+        "tornAwardedERC20": "61653398549978235000"
+    },
+    "0xCeA378D3f9757846F91E690d9Bd92e7021d46F28": {
+        "votesDecimal": "191.265410037017440897",
+        "votesFloat": 191.26541,
+        "percentTotal": 0.001007754918574832,
+        "tornAwardedFloat": 50.387745928741595,
+        "tornAwardedERC20": "50387745928741595000"
+    },
+    "0xdD8B9a27490a7A3ae5CB0eaDfC328092015BC03C": {
+        "votesDecimal": "104.336618525460335162",
+        "votesFloat": 104.33661,
+        "percentTotal": 0.0005497373096103681,
+        "tornAwardedFloat": 27.486865480518404,
+        "tornAwardedERC20": "27486865480518404000"
+    },
+    "0x7Ce15670E2F61A5782eeea11D9dAc07333DcA51B": {
+        "votesDecimal": "156.027990210741487546",
+        "votesFloat": 156.02799,
+        "percentTotal": 0.00082209310276147,
+        "tornAwardedFloat": 41.1046551380735,
+        "tornAwardedERC20": "41104655138073500000"
+    },
+    "0xDE7e3ec4442Ba87247797BEA433985449EDEA893": {
+        "votesDecimal": "19.987257296133252978",
+        "votesFloat": 19.98725,
+        "percentTotal": 0.00010531046620653892,
+        "tornAwardedFloat": 5.265523310326945,
+        "tornAwardedERC20": "5265523310326945000"
+    },
+    "0x3f20e968a304Bc825Aa1a45228FdfD2D3D90c6Af": {
+        "votesDecimal": "77.406201557779893914",
+        "votesFloat": 77.4062,
+        "percentTotal": 0.00040784415111016234,
+        "tornAwardedFloat": 20.39220755550812,
+        "tornAwardedERC20": "20392207555508120000"
+    },
+    "0xfe32A37F15ee4a4b59715530E5817D1322B9df80": {
+        "votesDecimal": "1352.988991389528681872",
+        "votesFloat": 1352.98899,
+        "percentTotal": 0.0071287396369792855,
+        "tornAwardedFloat": 356.43698184896425,
+        "tornAwardedERC20": "356436981848964250000"
+    },
+    "0xb3E7C32d7C328AEabc8F34e90a879326b6482750": {
+        "votesDecimal": "2316.705446235720460762",
+        "votesFloat": 2316.70544,
+        "percentTotal": 0.01220644810815019,
+        "tornAwardedFloat": 610.3224054075096,
+        "tornAwardedERC20": "610322405407509600000"
+    },
+    "0xE61fB2E9aBbD278Ce3829Ea93E858AfE198A5f8a": {
+        "votesDecimal": "2002.000000000000000000",
+        "votesFloat": 2002,
+        "percentTotal": 0.010548302209933379,
+        "tornAwardedFloat": 527.415110496669,
+        "tornAwardedERC20": "527415110496669000000"
+    },
+    "0xA29DbaA84a9949A0A38a2Ba07E0b75e6603934DB": {
+        "votesDecimal": "1518.120302913106229980",
+        "votesFloat": 1518.1203,
+        "percentTotal": 0.007998797060656706,
+        "tornAwardedFloat": 399.9398530328353,
+        "tornAwardedERC20": "399939853032835300000"
+    },
+    "0x855328Ee5E94924cB83b267F25A513C2a2fC3E5E": {
+        "votesDecimal": "718.960753100735482786",
+        "votesFloat": 718.96075,
+        "percentTotal": 0.0037881195145256534,
+        "tornAwardedFloat": 189.40597572628266,
+        "tornAwardedERC20": "189405975726282660000"
+    },
+    "0x29027775CCC250724902b515EfF7bBa7906EA237": {
+        "votesDecimal": "37.507355008087950086",
+        "votesFloat": 37.50735,
+        "percentTotal": 0.00019762180963723511,
+        "tornAwardedFloat": 9.881090481861756,
+        "tornAwardedERC20": "9881090481861756000"
+    },
+    "0x35ba1c89d6A785a6bbE0940f08b759a8EB2B9386": {
+        "votesDecimal": "259.384753392087629991",
+        "votesFloat": 259.38475,
+        "percentTotal": 0.0013666676981258824,
+        "tornAwardedFloat": 68.33338490629411,
+        "tornAwardedERC20": "68333384906294110000"
+    },
+    "0x9305D3b084FA269Afe5A1a8Ca414715D39041eb9": {
+        "votesDecimal": "478.684100947242791520",
+        "votesFloat": 478.6841,
+        "percentTotal": 0.002522130144800185,
+        "tornAwardedFloat": 126.10650724000925,
+        "tornAwardedERC20": "126106507240009250000"
+    },
+    "0xf00D98806a785Bb0e1854a0Ccc8a39C9C4f4316A": {
+        "votesDecimal": "165.860901722267158893",
+        "votesFloat": 165.8609,
+        "percentTotal": 0.0008739015474583112,
+        "tornAwardedFloat": 43.695077372915556,
+        "tornAwardedERC20": "43695077372915556000"
+    },
+    "0xd6D30F186E802c1558b8137bd730f7f4AEC17aE7": {
+        "votesDecimal": "106.558590957893972288",
+        "votesFloat": 106.55859,
+        "percentTotal": 0.0005614446605316606,
+        "tornAwardedFloat": 28.07223302658303,
+        "tornAwardedERC20": "28072233026583030000"
+    },
+    "0x0B4ead9Adb79457816d446deb57d7A22F88c644c": {
+        "votesDecimal": "19.892121716878788527",
+        "votesFloat": 19.89212,
+        "percentTotal": 0.00010480923744068928,
+        "tornAwardedFloat": 5.240461872034464,
+        "tornAwardedERC20": "5240461872034464000"
+    },
+    "0xe9d8179134acd7611a9d9d1A371D56bF925E19C4": {
+        "votesDecimal": "63.735573752604654801",
+        "votesFloat": 63.73557,
+        "percentTotal": 0.0003358152117294523,
+        "tornAwardedFloat": 16.790760586472615,
+        "tornAwardedERC20": "16790760586472615000"
+    },
+    "0x43B0d59d04ec37e2e9384137cC9fc7518A1BdD00": {
+        "votesDecimal": "197.400000000000000000",
+        "votesFloat": 197.4,
+        "percentTotal": 0.0010400773507696548,
+        "tornAwardedFloat": 52.00386753848274,
+        "tornAwardedERC20": "52003867538482740000"
+    },
+    "0xa915be4B339307de39DE6F7D5A8Ca1644B230c4e": {
+        "votesDecimal": "92.700548928162468656",
+        "votesFloat": 92.70054,
+        "percentTotal": 0.000488428227244764,
+        "tornAwardedFloat": 24.4214113622382,
+        "tornAwardedERC20": "24421411362238200000"
+    },
+    "0x9ef4ACc2Fd5cde01ECe05BD4e44732a023ed7845": {
+        "votesDecimal": "17.098630935263618070",
+        "votesFloat": 17.09863,
+        "percentTotal": 0.0000900906676402763,
+        "tornAwardedFloat": 4.504533382013815,
+        "tornAwardedERC20": "4504533382013815000"
+    },
+    "0x4565Ee03a020dAA77c5EfB25F6DD32e28d653c27": {
+        "votesDecimal": "278.639096893291902477",
+        "votesFloat": 278.63909,
+        "percentTotal": 0.0014681165478625502,
+        "tornAwardedFloat": 73.40582739312751,
+        "tornAwardedERC20": "73405827393127510000"
+    },
+    "0xEDF784409D24Dfeb1D88686F27c20D7274A1c0d2": {
+        "votesDecimal": "248.406662427930450052",
+        "votesFloat": 248.40666,
+        "percentTotal": 0.0013088254348851993,
+        "tornAwardedFloat": 65.44127174425996,
+        "tornAwardedERC20": "65441271744259960000"
+    },
+    "0xBf6781540952B8aA1EEC982114766bedc300f882": {
+        "votesDecimal": "42.116791761953357196",
+        "votesFloat": 42.11679,
+        "percentTotal": 0.00022190840611003996,
+        "tornAwardedFloat": 11.095420305501998,
+        "tornAwardedERC20": "11095420305501998000"
+    },
+    "0x4f2FC90212e949fF4AA32DeF570744163671F22B": {
+        "votesDecimal": "94.654731294751900384",
+        "votesFloat": 94.65473,
+        "percentTotal": 0.000498724624195628,
+        "tornAwardedFloat": 24.9362312097814,
+        "tornAwardedERC20": "24936231209781400000"
+    },
+    "0xC0a1d8F433A18fAFf28e13299F12EaB0A440D731": {
+        "votesDecimal": "224.092316425963592157",
+        "votesFloat": 224.09231,
+        "percentTotal": 0.0011807159884126251,
+        "tornAwardedFloat": 59.03579942063126,
+        "tornAwardedERC20": "59035799420631260000"
+    },
+    "0x42cC51E68B7491153837420844936933821461E2": {
+        "votesDecimal": "127.276750390660465751",
+        "votesFloat": 127.27675,
+        "percentTotal": 0.0006706062054436255,
+        "tornAwardedFloat": 33.530310272181275,
+        "tornAwardedERC20": "33530310272181275000"
+    },
+    "0x29213292e606EBC5FbC481172D5ADa5802315c60": {
+        "votesDecimal": "744.688991570724088484",
+        "votesFloat": 744.68899,
+        "percentTotal": 0.003923678580884144,
+        "tornAwardedFloat": 196.1839290442072,
+        "tornAwardedERC20": "196183929044207200000"
+    },
+    "0x61efDc88bb6Dc02A18DFB9a240800398599BAC64": {
+        "votesDecimal": "68.062691153765327958",
+        "votesFloat": 68.06269,
+        "percentTotal": 0.0003586142973731321,
+        "tornAwardedFloat": 17.930714868656604,
+        "tornAwardedERC20": "17930714868656604000"
+    },
+    "0x945813970115558e0fBa48330f7Adb768CcFD556": {
+        "votesDecimal": "2.002000000000000000",
+        "votesFloat": 2.002,
+        "percentTotal": 0.000010548302209933376,
+        "tornAwardedFloat": 0.5274151104966688,
+        "tornAwardedERC20": "527415110496668800"
+    },
+    "0x71E1682ca3447ae35e9E5Ad7ad5e28202CEE7888": {
+        "votesDecimal": "656.426186841275692020",
+        "votesFloat": 656.42618,
+        "percentTotal": 0.003458632230345717,
+        "tornAwardedFloat": 172.93161151728586,
+        "tornAwardedERC20": "172931611517285860000"
+    },
+    "0x865c2F85C9fEa1C6Ac7F53de07554D68cB92eD88": {
+        "votesDecimal": "189.681861385996295666",
+        "votesFloat": 189.68186,
+        "percentTotal": 0.0009994113801310058,
+        "tornAwardedFloat": 49.97056900655029,
+        "tornAwardedERC20": "49970569006550290000"
+    },
+    "0xE89bD48a519706E599e6C3e8Fa41b89Ef13e3979": {
+        "votesDecimal": "324.424924182401774235",
+        "votesFloat": 324.42492,
+        "percentTotal": 0.0017093566936031265,
+        "tornAwardedFloat": 85.46783468015633,
+        "tornAwardedERC20": "85467834680156330000"
+    },
+    "0x0d807d0cA70448078220eFA878d43f61bce3A5c3": {
+        "votesDecimal": "2641.807417199888062430",
+        "votesFloat": 2641.80741,
+        "percentTotal": 0.013919372098462224,
+        "tornAwardedFloat": 695.9686049231112,
+        "tornAwardedERC20": "695968604923111200000"
+    },
+    "0x908577127A530C7F3FFF655ce78942bc53F3f95B": {
+        "votesDecimal": "1572.150804315273428442",
+        "votesFloat": 1572.1508,
+        "percentTotal": 0.008283477401592671,
+        "tornAwardedFloat": 414.17387007963356,
+        "tornAwardedERC20": "414173870079633560000"
+    },
+    "0xa3D4DB0795AFC80D36790D470b81bDb0F7116C2C": {
+        "votesDecimal": "241.769552488560491556",
+        "votesFloat": 241.76955,
+        "percentTotal": 0.0012738552839958034,
+        "tornAwardedFloat": 63.69276419979017,
+        "tornAwardedERC20": "63692764199790170000"
+    },
+    "0x17e33637f6B64E9082Ea499481b6e6EbAE7EEA23": {
+        "votesDecimal": "170.924000490526120815",
+        "votesFloat": 170.924,
+        "percentTotal": 0.0009005784250402861,
+        "tornAwardedFloat": 45.02892125201431,
+        "tornAwardedERC20": "45028921252014310000"
+    },
+    "0x19814b759Da5E4e6E6f724500e23005B63A45F48": {
+        "votesDecimal": "273.863936991516032192",
+        "votesFloat": 273.86393,
+        "percentTotal": 0.001442956792227792,
+        "tornAwardedFloat": 72.1478396113896,
+        "tornAwardedERC20": "72147839611389600000"
+    },
+    "0x6C4D08a154e8e9CC628e3F987c7082Bdc26c0D93": {
+        "votesDecimal": "214.900340922984228229",
+        "votesFloat": 214.90034,
+        "percentTotal": 0.0011322845810876295,
+        "tornAwardedFloat": 56.614229054381475,
+        "tornAwardedERC20": "56614229054381475000"
+    },
+    "0x5A9e792143bf2708b4765C144451dCa54f559a19": {
+        "votesDecimal": "27.324453732377850016",
+        "votesFloat": 27.32445,
+        "percentTotal": 0.00014396930885125577,
+        "tornAwardedFloat": 7.198465442562789,
+        "tornAwardedERC20": "7198465442562789000"
+    },
+    "0xCe62Eda7f710aB321c7AeCe48eF5d65316002b27": {
+        "votesDecimal": "1150.956023104983565729",
+        "votesFloat": 1150.95602,
+        "percentTotal": 0.006064251712938125,
+        "tornAwardedFloat": 303.21258564690623,
+        "tornAwardedERC20": "303212585646906230000"
+    },
+    "0xB4b79424eB8C1cC401Fc56F99A3083fE7F76FA84": {
+        "votesDecimal": "1114.105197019712459020",
+        "votesFloat": 1114.10519,
+        "percentTotal": 0.005870089029857765,
+        "tornAwardedFloat": 293.5044514928882,
+        "tornAwardedERC20": "293504451492888200000"
+    },
+    "0x5ac6e81792c6582241F743f09d158Af68D04E2C1": {
+        "votesDecimal": "11.000000000000000000",
+        "votesFloat": 11,
+        "percentTotal": 0.000057957704450183395,
+        "tornAwardedFloat": 2.89788522250917,
+        "tornAwardedERC20": "2897885222509170000"
+    },
+    "0xb3E30dEa4952551D57cBBd64ab850965179Ad2d5": {
+        "votesDecimal": "126.399945566573133651",
+        "votesFloat": 126.39994,
+        "percentTotal": 0.0006659863968219013,
+        "tornAwardedFloat": 33.29931984109507,
+        "tornAwardedERC20": "33299319841095070000"
+    },
+    "0x239EeC9EC218f71cEf5CC14D88b142ed4fF44110": {
+        "votesDecimal": "245.687182573955641654",
+        "votesFloat": 245.68718,
+        "percentTotal": 0.0012944968150580918,
+        "tornAwardedFloat": 64.72484075290458,
+        "tornAwardedERC20": "64724840752904580000"
+    },
+    "0xB631651cB570bA0C0D696bD5E4860cbD214f20a0": {
+        "votesDecimal": "4478.139659761302178360",
+        "votesFloat": 4478.13965,
+        "percentTotal": 0.023594790392849792,
+        "tornAwardedFloat": 1179.7395196424895,
+        "tornAwardedERC20": "1179739519642489500000"
+    },
+    "0xeb8eFA8CAD41e89986aEF7E896A06fB2f1f7e932": {
+        "votesDecimal": "44.945227195443340767",
+        "votesFloat": 44.94522,
+        "percentTotal": 0.0002368110706553156,
+        "tornAwardedFloat": 11.84055353276578,
+        "tornAwardedERC20": "11840553532765780000"
+    },
+    "0xFc65b2B56594214eA26E3570F890075c8ee3FFb4": {
+        "votesDecimal": "21.219852374222754017",
+        "votesFloat": 21.21985,
+        "percentTotal": 0.0001118048904342931,
+        "tornAwardedFloat": 5.590244521714655,
+        "tornAwardedERC20": "5590244521714655000"
+    },
+    "0xbBB1199528a0F5DAB92A3fA5BA424C4f0e1A6807": {
+        "votesDecimal": "61.028210737850020305",
+        "votesFloat": 61.02821,
+        "percentTotal": 0.00032155045075488425,
+        "tornAwardedFloat": 16.077522537744212,
+        "tornAwardedERC20": "16077522537744212000"
+    },
+    "0x23bc95F84BD43C1FCc2bc285fDa4Cb12f9AEE2df": {
+        "votesDecimal": "105.789286664408405955",
+        "votesFloat": 105.78928,
+        "percentTotal": 0.0005573912567488816,
+        "tornAwardedFloat": 27.86956283744408,
+        "tornAwardedERC20": "27869562837444080000"
+    },
+    "0xD0a5266b2515c3b575e30cBC0cfC775FA4fC6660": {
+        "votesDecimal": "10.870758168308627544",
+        "votesFloat": 10.87075,
+        "percentTotal": 0.00005727670142289374,
+        "tornAwardedFloat": 2.863835071144687,
+        "tornAwardedERC20": "2863835071144687000"
+    },
+    "0x865Ba8cF292CD5C65CA4eD58c85213Ad8907AE67": {
+        "votesDecimal": "62.533060338545498590",
+        "votesFloat": 62.53306,
+        "percentTotal": 0.0003294793281677805,
+        "tornAwardedFloat": 16.473966408389025,
+        "tornAwardedERC20": "16473966408389025000"
+    },
+    "0x42a2F2C3Be4f825758039eF254Ae422a7a9c8774": {
+        "votesDecimal": "40.354778302672665669",
+        "votesFloat": 40.35477,
+        "percentTotal": 0.00021262453025592068,
+        "tornAwardedFloat": 10.631226512796033,
+        "tornAwardedERC20": "10631226512796033000"
+    },
+    "0xaEe1c28968794EE0EEF8a9F3E90F5B3C4d39f6C6": {
+        "votesDecimal": "847.991417098921691694",
+        "votesFloat": 847.99141,
+        "percentTotal": 0.004467966865188572,
+        "tornAwardedFloat": 223.3983432594286,
+        "tornAwardedERC20": "223398343259428600000"
+    },
+    "0x800bA9525BdDd17234B16F2064d8d3784f75ffc5": {
+        "votesDecimal": "321.556651665490718989",
+        "votesFloat": 321.55665,
+        "percentTotal": 0.0016942441167900966,
+        "tornAwardedFloat": 84.71220583950483,
+        "tornAwardedERC20": "84712205839504830000"
+    },
+    "0x1A228e790f75170390FeD2664E0d93b0FCa8f991": {
+        "votesDecimal": "113.373122900989664533",
+        "votesFloat": 113.37312,
+        "percentTotal": 0.000597349616505016,
+        "tornAwardedFloat": 29.8674808252508,
+        "tornAwardedERC20": "29867480825250800000"
+    },
+    "0x97Fa832D1267C30DE7C913a4EFd067Fe7cd1fF2D": {
+        "votesDecimal": "167.186501401410346230",
+        "votesFloat": 167.1865,
+        "percentTotal": 0.0008808859777327806,
+        "tornAwardedFloat": 44.04429888663903,
+        "tornAwardedERC20": "44044298886639030000"
+    },
+    "0x9492592b6D9b97E54748f29753A2CE40B53987b3": {
+        "votesDecimal": "251.884618534657860501",
+        "votesFloat": 251.88461,
+        "percentTotal": 0.0013271503438117918,
+        "tornAwardedFloat": 66.35751719058959,
+        "tornAwardedERC20": "66357517190589590000"
+    },
+    "0x23A8b4174326DA794d691427A25DEf99e4169434": {
+        "votesDecimal": "225.518819759680403926",
+        "votesFloat": 225.51881,
+        "percentTotal": 0.0011882320489033694,
+        "tornAwardedFloat": 59.41160244516847,
+        "tornAwardedERC20": "59411602445168470000"
+    },
+    "0x3655B4c2E0cFc041067bd037EB61de0eAbcaA6f2": {
+        "votesDecimal": "321.094341175465921527",
+        "votesFloat": 321.09434,
+        "percentTotal": 0.0016918082598496999,
+        "tornAwardedFloat": 84.590412992485,
+        "tornAwardedERC20": "84590412992485000000"
+    },
+    "0x963D819EECe1430855623aD1F8F9Da6559908e03": {
+        "votesDecimal": "52.484566197289674710",
+        "votesFloat": 52.48456,
+        "percentTotal": 0.00027653496515253796,
+        "tornAwardedFloat": 13.826748257626898,
+        "tornAwardedERC20": "13826748257626898000"
+    },
+    "0x1C6f00d5f85ef51D04D860264276bc3C5A80edeF": {
+        "votesDecimal": "77.867466010873844242",
+        "votesFloat": 77.86746,
+        "percentTotal": 0.00041027447572422517,
+        "tornAwardedFloat": 20.51372378621126,
+        "tornAwardedERC20": "20513723786211260000"
+    },
+    "0x988136bC3201CE5F8C9b8C1501C0664f96dd0a3c": {
+        "votesDecimal": "160.391446796790220324",
+        "votesFloat": 160.39144,
+        "percentTotal": 0.000845083606896302,
+        "tornAwardedFloat": 42.254180344815104,
+        "tornAwardedERC20": "42254180344815104000"
+    },
+    "0xC6972E1E744869bEc6e0100a0AD7ced9D1062386": {
+        "votesDecimal": "17.630030841504663707",
+        "votesFloat": 17.63003,
+        "percentTotal": 0.00009289055165344244,
+        "tornAwardedFloat": 4.644527582672122,
+        "tornAwardedERC20": "4644527582672122000"
+    },
+    "0x739Be090cC6fC6f24077f30eF9e5cb087Ef0739E": {
+        "votesDecimal": "259.319831524381415323",
+        "votesFloat": 259.31983,
+        "percentTotal": 0.001366325642291982,
+        "tornAwardedFloat": 68.3162821145991,
+        "tornAwardedERC20": "68316282114599100000"
+    },
+    "0x9a947d718BBa58eFBE3EB0B6BC55Ce27991231Fb": {
+        "votesDecimal": "325.813546620846434212",
+        "votesFloat": 325.81354,
+        "percentTotal": 0.0017166731688352732,
+        "tornAwardedFloat": 85.83365844176366,
+        "tornAwardedERC20": "85833658441763660000"
+    },
+    "0xA84944735B66e957Fe385567dcc85975022Fe68A": {
+        "votesDecimal": "168.586990247704408728",
+        "votesFloat": 168.58699,
+        "percentTotal": 0.0008882649945969112,
+        "tornAwardedFloat": 44.41324972984556,
+        "tornAwardedERC20": "44413249729845560000"
+    },
+    "0xA3A0A77d44ab389B1BbfdD6305A82a872449c8A1": {
+        "votesDecimal": "287.806557197134020607",
+        "votesFloat": 287.80655,
+        "percentTotal": 0.0015164188148842665,
+        "tornAwardedFloat": 75.82094074421332,
+        "tornAwardedERC20": "75820940744213320000"
+    },
+    "0x713dEA62090f78c02cB174a5e1ff1947F30D00bB": {
+        "votesDecimal": "85.027663917862546761",
+        "votesFloat": 85.02766,
+        "percentTotal": 0.0004480007262155164,
+        "tornAwardedFloat": 22.40003631077582,
+        "tornAwardedERC20": "22400036310775820000"
+    },
+    "0xa6eDC956290b7Ce416c5d8EDc67E1C32506Fe099": {
+        "votesDecimal": "3408.970586884165103660",
+        "votesFloat": 3408.97058,
+        "percentTotal": 0.017961464486819116,
+        "tornAwardedFloat": 898.0732243409558,
+        "tornAwardedERC20": "898073224340955800000"
+    },
+    "0x978aAD63FE35F7A72573c411C3dfF53608AaeaC9": {
+        "votesDecimal": "3491.194072844272293168",
+        "votesFloat": 3491.19407,
+        "percentTotal": 0.01839469037157208,
+        "tornAwardedFloat": 919.734518578604,
+        "tornAwardedERC20": "919734518578604000000"
+    },
+    "0x6b13114CC2FD1D24C19189D33FE7d4AfA9c3D139": {
+        "votesDecimal": "310.046968375136024389",
+        "votesFloat": 310.04696,
+        "percentTotal": 0.001633600915759803,
+        "tornAwardedFloat": 81.68004578799015,
+        "tornAwardedERC20": "81680045787990150000"
+    },
+    "0x7459cf03D3F4Ae370D19bb7a19220323E6441E5E": {
+        "votesDecimal": "551.137593181862081424",
+        "votesFloat": 551.13759,
+        "percentTotal": 0.002903879050236941,
+        "tornAwardedFloat": 145.19395251184707,
+        "tornAwardedERC20": "145193952511847070000"
+    },
+    "0xEC3281124d4c2FCA8A88e3076C1E7749CfEcb7F2": {
+        "votesDecimal": "117.534897440375863682",
+        "votesFloat": 117.53489,
+        "percentTotal": 0.0006192774924731651,
+        "tornAwardedFloat": 30.963874623658256,
+        "tornAwardedERC20": "30963874623658256000"
+    },
+    "0x753F734ccb6eaa335a3A0601BaA774bA7348b5B8": {
+        "votesDecimal": "377.434472759931399820",
+        "votesFloat": 377.43447,
+        "percentTotal": 0.0019886577692337826,
+        "tornAwardedFloat": 99.43288846168913,
+        "tornAwardedERC20": "99432888461689130000"
+    },
+    "0x688733CB1732dE7bd891716Fa749bF0b9e873233": {
+        "votesDecimal": "292.171753305996557602",
+        "votesFloat": 292.17175,
+        "percentTotal": 0.0015394185395629881,
+        "tornAwardedFloat": 76.97092697814941,
+        "tornAwardedERC20": "76970926978149410000"
+    },
+    "0x99CB4B9dFD43Ad910A0D456d1D8a548fe67Dfd2F": {
+        "votesDecimal": "159.320508144555619701",
+        "votesFloat": 159.3205,
+        "percentTotal": 0.0008394409501686767,
+        "tornAwardedFloat": 41.97204750843383,
+        "tornAwardedERC20": "41972047508433830000"
+    },
+    "0x93Ec35e8FaCfFe888750Ef07cA956Fb6b2102443": {
+        "votesDecimal": "82.215448690774938279",
+        "votesFloat": 82.21544,
+        "percentTotal": 0.00043318347025107144,
+        "tornAwardedFloat": 21.659173512553572,
+        "tornAwardedERC20": "21659173512553572000"
+    },
+    "0xCb95cAB0D557808491A0d498aCaE4fb37277da00": {
+        "votesDecimal": "127.516511195474755775",
+        "votesFloat": 127.51651,
+        "percentTotal": 0.0006718694726453504,
+        "tornAwardedFloat": 33.593473632267525,
+        "tornAwardedERC20": "33593473632267525000"
+    },
+    "0xD9bAE40F1E23aC82F6bc9aa375dbfFfEB8B6BFA7": {
+        "votesDecimal": "128.911320492163136912",
+        "votesFloat": 128.91132,
+        "percentTotal": 0.0006792185622584559,
+        "tornAwardedFloat": 33.960928112922794,
+        "tornAwardedERC20": "33960928112922794000"
+    },
+    "0x2d1d988e6EFFbE3F1EF23114A0a724C85f20CE57": {
+        "votesDecimal": "126.333776044173895088",
+        "votesFloat": 126.33377,
+        "percentTotal": 0.0006656377548852223,
+        "tornAwardedFloat": 33.28188774426112,
+        "tornAwardedERC20": "33281887744261120000"
+    },
+    "0x0b157aC0a65319B0a18aA46B0B0D4497E1074456": {
+        "votesDecimal": "934.469290702942578563",
+        "votesFloat": 934.46929,
+        "percentTotal": 0.004923608629781156,
+        "tornAwardedFloat": 246.1804314890578,
+        "tornAwardedERC20": "246180431489057800000"
+    },
+    "0x9B4C75cE8d7006620Df39e8757ade75D6434A6fE": {
+        "votesDecimal": "1000.000000000000000000",
+        "votesFloat": 1000,
+        "percentTotal": 0.005268882222743945,
+        "tornAwardedFloat": 263.44411113719724,
+        "tornAwardedERC20": "263444111137197240000"
+    },
+    "0x321a1f4026C5D4c48E71c4F0f0d1B3F17E9d200b": {
+        "votesDecimal": "632.329140622282886808",
+        "votesFloat": 632.32914,
+        "percentTotal": 0.0033316677646689674,
+        "tornAwardedFloat": 166.58338823344837,
+        "tornAwardedERC20": "166583388233448370000"
+    },
+    "0xa0eF3D1cEd8d9b5470A2b8c8764E58Fad5D36Db6": {
+        "votesDecimal": "19.661598787950891127",
+        "votesFloat": 19.66159,
+        "percentTotal": 0.00010359460202188013,
+        "tornAwardedFloat": 5.179730101094006,
+        "tornAwardedERC20": "5179730101094006000"
+    },
+    "0x72AF16b4dF0a8C17E13B33632E013f57f8874f5B": {
+        "votesDecimal": "3.385285704109366787",
+        "votesFloat": 3.38528,
+        "percentTotal": 0.00001783664161101062,
+        "tornAwardedFloat": 0.8918320805505311,
+        "tornAwardedERC20": "891832080550531100"
+    },
+    "0x50836822af94BB883d52EE180682b6035B2603D4": {
+        "votesDecimal": "442.088574325130717389",
+        "votesFloat": 442.08857,
+        "percentTotal": 0.002329312607351292,
+        "tornAwardedFloat": 116.4656303675646,
+        "tornAwardedERC20": "116465630367564600000"
+    },
+    "0x6Bb84ACDA075cf8aDb3628d57CD8811aFCBD189e": {
+        "votesDecimal": "2003.909525537182563904",
+        "votesFloat": 2003.90952,
+        "percentTotal": 0.010558363245915352,
+        "tornAwardedFloat": 527.9181622957676,
+        "tornAwardedERC20": "527918162295767600000"
+    },
+    "0x1Cd8AB7C8582D4ABF74279061DC2BfD75EBCEDc7": {
+        "votesDecimal": "127.256777933221114667",
+        "votesFloat": 127.25677,
+        "percentTotal": 0.000670500933176815,
+        "tornAwardedFloat": 33.52504665884075,
+        "tornAwardedERC20": "33525046658840750000"
+    },
+    "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1": {
+        "votesDecimal": "135.285140086398724647",
+        "votesFloat": 135.28514,
+        "percentTotal": 0.0007128014691474259,
+        "tornAwardedFloat": 35.640073457371294,
+        "tornAwardedERC20": "35640073457371294000"
+    },
+    "0xC2E7043754b10c44a0528D18c6f3f75dd8912581": {
+        "votesDecimal": "10.850000000000000000",
+        "votesFloat": 10.85,
+        "percentTotal": 0.0000571673721167718,
+        "tornAwardedFloat": 2.85836860583859,
+        "tornAwardedERC20": "2858368605838590000"
+    },
+    "0x24D0Db7E182fCD29DdeA14C04BCb182c89CBB0C0": {
+        "votesDecimal": "107.191356631949911074",
+        "votesFloat": 107.19135,
+        "percentTotal": 0.0005647785984469241,
+        "tornAwardedFloat": 28.238929922346205,
+        "tornAwardedERC20": "28238929922346205000"
+    },
+    "0x6569670BE2Ddaf37DD071409c80bdb2995e3e51A": {
+        "votesDecimal": "4.000000000000000000",
+        "votesFloat": 4,
+        "percentTotal": 0.00002107552889097578,
+        "tornAwardedFloat": 1.0537764445487892,
+        "tornAwardedERC20": "1053776444548789200"
+    },
+    "0x1566fA9f2A33628E03C11ba24b82770F45c0020f": {
+        "votesDecimal": "1.000000000000000000",
+        "votesFloat": 1,
+        "percentTotal": 0.000005268882222743945,
+        "tornAwardedFloat": 0.2634441111371973,
+        "tornAwardedERC20": "263444111137197300"
+    },
+    "0xeA6a847D82858036d35Cee248ae8f6bBd5705808": {
+        "votesDecimal": "1.000000000000000000",
+        "votesFloat": 1,
+        "percentTotal": 0.000005268882222743945,
+        "tornAwardedFloat": 0.2634441111371973,
+        "tornAwardedERC20": "263444111137197300"
+    },
+    "0xdD9FBFA03c94A64b0686d2186e42AA24eF007A42": {
+        "votesDecimal": "24.208902379281873352",
+        "votesFloat": 24.2089,
+        "percentTotal": 0.00012755384284218589,
+        "tornAwardedFloat": 6.377692142109295,
+        "tornAwardedERC20": "6377692142109295000"
+    },
+    "0xC4dfedfb97B6e1E0C48C6CF1b5F252BF9F8E3664": {
+        "votesDecimal": "23.296473341242004574",
+        "votesFloat": 23.29647,
+        "percentTotal": 0.00012274635663568764,
+        "tornAwardedFloat": 6.137317831784382,
+        "tornAwardedERC20": "6137317831784382000"
+    },
+    "0x1b91FAc5f83eF4f003a8406ef06987E380D74dE9": {
+        "votesDecimal": "138.000000000000000000",
+        "votesFloat": 138,
+        "percentTotal": 0.0007271057467386644,
+        "tornAwardedFloat": 36.35528733693322,
+        "tornAwardedERC20": "36355287336933220000"
+    },
+    "0x52803f0201A3e8189C7CAe30d1355d44A46AC637": {
+        "votesDecimal": "884.547938247419474500",
+        "votesFloat": 884.54793,
+        "percentTotal": 0.004660578863541955,
+        "tornAwardedFloat": 233.02894317709777,
+        "tornAwardedERC20": "233028943177097770000"
+    },
+    "0x06D590d3936A56106D46Bc58bb0D011f3244A0bC": {
+        "votesDecimal": "262.068708142863130789",
+        "votesFloat": 262.0687,
+        "percentTotal": 0.001380809114567616,
+        "tornAwardedFloat": 69.0404557283808,
+        "tornAwardedERC20": "69040455728380800000"
+    },
+    "0xB434DB290Cc14673F5D6C679047e9Ec338528f64": {
+        "votesDecimal": "135.669165547112841456",
+        "votesFloat": 135.66916,
+        "percentTotal": 0.000714824825298604,
+        "tornAwardedFloat": 35.741241264930196,
+        "tornAwardedERC20": "35741241264930196000"
+    },
+    "0xa1DE6Cd469037207F710Dd17Baa6b5f8739D3261": {
+        "votesDecimal": "260.532234866872351070",
+        "votesFloat": 260.53223,
+        "percentTotal": 0.0013727136350988368,
+        "tornAwardedFloat": 68.63568175494184,
+        "tornAwardedERC20": "68635681754941840000"
+    },
+    "0x83faB3353DA89d881613D596E61c46420799ce36": {
+        "votesDecimal": "7.848956097031796297",
+        "votesFloat": 7.84895,
+        "percentTotal": 0.000041355193122206086,
+        "tornAwardedFloat": 2.0677596561103044,
+        "tornAwardedERC20": "2067759656110304400"
+    },
+    "0x08717DC665247452454b6976A0Fc6aab3A97D31F": {
+        "votesDecimal": "5.000000000000000000",
+        "votesFloat": 5,
+        "percentTotal": 0.000026344411113719724,
+        "tornAwardedFloat": 1.3172205556859862,
+        "tornAwardedERC20": "1317220555685986200"
+    },
+    "0x30C80C56f439760D4D0fA33Ed19822a27e7461bb": {
+        "votesDecimal": "42.092850398275147887",
+        "votesFloat": 42.09285,
+        "percentTotal": 0.00022178226906962746,
+        "tornAwardedFloat": 11.089113453481373,
+        "tornAwardedERC20": "11089113453481373000"
+    },
+    "0x9984fa02761f6Ee2bae43Ed8aaEE1Cd9D1cfd490": {
+        "votesDecimal": "15.388131894936379740",
+        "votesFloat": 15.38813,
+        "percentTotal": 0.00008107824459827279,
+        "tornAwardedFloat": 4.05391222991364,
+        "tornAwardedERC20": "4053912229913640000"
+    },
+    "0xeC5F9994ebE1bDEAa009Cb0a3e984c5C55bf3fDD": {
+        "votesDecimal": "39.815039602309710014",
+        "votesFloat": 39.81503,
+        "percentTotal": 0.00020978070376501684,
+        "tornAwardedFloat": 10.489035188250842,
+        "tornAwardedERC20": "10489035188250842000"
+    },
+    "0x3F939eA047178F56f59775400488DaC03D36FE2C": {
+        "votesDecimal": "32.810590858513808858",
+        "votesFloat": 32.81059,
+        "percentTotal": 0.00017287513436874024,
+        "tornAwardedFloat": 8.643756718437013,
+        "tornAwardedERC20": "8643756718437013000"
+    },
+    "0x4d1Dcf15AcBC0b69aED7b0d87BDA5Cbc66C48184": {
+        "votesDecimal": "134.816265658920396700",
+        "votesFloat": 134.81626,
+        "percentTotal": 0.0007103309956508256,
+        "tornAwardedFloat": 35.516549782541276,
+        "tornAwardedERC20": "35516549782541276000"
+    },
+    "0xc8E68D674Df0Eab152926C4F0EE7D0ac0745c715": {
+        "votesDecimal": "17786.751090389942686394",
+        "votesFloat": 17786.75109,
+        "percentTotal": 0.0937162966184725,
+        "tornAwardedFloat": 4685.814830923625,
+        "tornAwardedERC20": "4685814830923625000000"
+    },
+    "0x43eefEb3dB479e7b22e015572f38B6af633a43FF": {
+        "votesDecimal": "18.581026033770215267",
+        "votesFloat": 18.58102,
+        "percentTotal": 0.00009790120595844969,
+        "tornAwardedFloat": 4.895060297922484,
+        "tornAwardedERC20": "4895060297922484000"
+    },
+    "0x2F338E6104cd462523563Ce8D0085002DdC56a93": {
+        "votesDecimal": "23.729405477188300000",
+        "votesFloat": 23.7294,
+        "percentTotal": 0.00012502741381638016,
+        "tornAwardedFloat": 6.251370690819008,
+        "tornAwardedERC20": "6251370690819008000"
+    },
+    "0xF3387Ae11EF53a633463C491362d25C885Ed0401": {
+        "votesDecimal": "382.300713538707400000",
+        "votesFloat": 382.30071,
+        "percentTotal": 0.002014297414661388,
+        "tornAwardedFloat": 100.7148707330694,
+        "tornAwardedERC20": "100714870733069400000"
+    },
+    "0x5BfcE71a1909b4525156290A8Fa61Af0f723aB4b": {
+        "votesDecimal": "890.833310312201039381",
+        "votesFloat": 890.83331,
+        "percentTotal": 0.004693695790487146,
+        "tornAwardedFloat": 234.68478952435729,
+        "tornAwardedERC20": "234684789524357290000"
+    },
+    "0x267D7546A3b872ec67139B8fb6Cf7e3e1F24185E": {
+        "votesDecimal": "120.000000000000000000",
+        "votesFloat": 120,
+        "percentTotal": 0.0006322658667292734,
+        "tornAwardedFloat": 31.613293336463673,
+        "tornAwardedERC20": "31613293336463673000"
+    },
+    "0xf3027B159cC34437e7778aB63737C7afF0F1d742": {
+        "votesDecimal": "339.390085980622321580",
+        "votesFloat": 339.39008,
+        "percentTotal": 0.0017882063590876453,
+        "tornAwardedFloat": 89.41031795438226,
+        "tornAwardedERC20": "89410317954382260000"
+    },
+    "0x03C322dB3F0D92cCdf6f8b6EfFd4031C94Bed1aB": {
+        "votesDecimal": "300.000000000000000000",
+        "votesFloat": 300,
+        "percentTotal": 0.0015806646668231835,
+        "tornAwardedFloat": 79.03323334115917,
+        "tornAwardedERC20": "79033233341159170000"
+    },
+    "0x285eAF3b172d8eddc15c154aB37Cc9e4C08cB0B8": {
+        "votesDecimal": "10.000044436443395252",
+        "votesFloat": 10.00004,
+        "percentTotal": 0.00005268903298272836,
+        "tornAwardedFloat": 2.6344516491364183,
+        "tornAwardedERC20": "2634451649136418300"
+    },
+    "0xC88EbC63c3126E9F37A46C1cf55b0E79C9cC20e2": {
+        "votesDecimal": "10.840349552330679000",
+        "votesFloat": 10.84034,
+        "percentTotal": 0.00005711647471450009,
+        "tornAwardedFloat": 2.8558237357250045,
+        "tornAwardedERC20": "2855823735725004500"
+    },
+    "0x96bdDbE70e19a66B174960de9B9CCCe35AaeBc96": {
+        "votesDecimal": "84.725222936653900000",
+        "votesFloat": 84.72522,
+        "percentTotal": 0.0004464072054760697,
+        "tornAwardedFloat": 22.320360273803484,
+        "tornAwardedERC20": "22320360273803484000"
+    },
+    "0x1DC9ee19Bc6eCe2df030Eb1F4f5d775e817d798D": {
+        "votesDecimal": ".233000000000000000",
+        "votesFloat": 0.233,
+        "percentTotal": 0.0000012276495578993393,
+        "tornAwardedFloat": 0.061382477894966966,
+        "tornAwardedERC20": "61382477894966966"
+    },
+    "0x10aab4B0EF76AA2AC9b5909e671517a1171B050E": {
+        "votesDecimal": "42.261019457403740000",
+        "votesFloat": 42.26101,
+        "percentTotal": 0.00022266828430420407,
+        "tornAwardedFloat": 11.133414215210204,
+        "tornAwardedERC20": "11133414215210204000"
+    },
+    "0x28d0f70Fa8C6E9657FF1290616B5AfcbAfB70eAC": {
+        "votesDecimal": "10.000000000000000000",
+        "votesFloat": 10,
+        "percentTotal": 0.00005268882222743945,
+        "tornAwardedFloat": 2.6344411113719723,
+        "tornAwardedERC20": "2634441111371972300"
+    },
+    "0xD77900479EF30963F4B5aA7d752b15795192eE15": {
+        "votesDecimal": "37.569905671952106000",
+        "votesFloat": 37.5699,
+        "percentTotal": 0.00019795137822026772,
+        "tornAwardedFloat": 9.897568911013385,
+        "tornAwardedERC20": "9897568911013385000"
+    },
+    "0xB40A916277FcB5Db234a98cA2417444EC448B470": {
+        "votesDecimal": "10200.000000000000000000",
+        "votesFloat": 10200,
+        "percentTotal": 0.05374259867198824,
+        "tornAwardedFloat": 2687.1299335994117,
+        "tornAwardedERC20": "2687129933599411700000"
+    },
+    "0x3465b014F5440AB17Eb331C2cc1a941686e39a3D": {
+        "votesDecimal": "16.000000000000000000",
+        "votesFloat": 16,
+        "percentTotal": 0.00008430211556390313,
+        "tornAwardedFloat": 4.215105778195157,
+        "tornAwardedERC20": "4215105778195157000"
+    },
+    "0x391891Af67E29D97E61E30C3036a0874F5Da411e": {
+        "votesDecimal": "100.000000000000000000",
+        "votesFloat": 100,
+        "percentTotal": 0.0005268882222743945,
+        "tornAwardedFloat": 26.344411113719726,
+        "tornAwardedERC20": "26344411113719726000"
+    },
+    "0xaCAcC26b44fdB92546e95e5eAa2A1a63FBc79Ad8": {
+        "votesDecimal": "1424.024588086765055366",
+        "votesFloat": 1424.02458,
+        "percentTotal": 0.0075030177943124126,
+        "tornAwardedFloat": 375.1508897156206,
+        "tornAwardedERC20": "375150889715620600000"
+    },
+    "0x6bf0443aE7288a126C7a798572ad43Ae78C62b6F": {
+        "votesDecimal": "281.000000000000000000",
+        "votesFloat": 281,
+        "percentTotal": 0.0014805559045910485,
+        "tornAwardedFloat": 74.02779522955242,
+        "tornAwardedERC20": "74027795229552420000"
+    },
+    "0x23c98B17743EF687cBAB84ceF9ecA52d4934455a": {
+        "votesDecimal": "500.000000000000000000",
+        "votesFloat": 500,
+        "percentTotal": 0.0026344411113719724,
+        "tornAwardedFloat": 131.72205556859862,
+        "tornAwardedERC20": "131722055568598620000"
+    },
+    "0xe2ca7390e76c5A992749bB622087310d2e63ca29": {
+        "votesDecimal": "19202.576556040623400000",
+        "votesFloat": 19202.57655,
+        "percentTotal": 0.10117611421517476,
+        "tornAwardedFloat": 5058.805710758738,
+        "tornAwardedERC20": "5058805710758738000000"
+    },
+    "0xB83c15a93B65a57c59A568068dFEe5da911146B8": {
+        "votesDecimal": "2241.042201173714600000",
+        "votesFloat": 2241.0422,
+        "percentTotal": 0.01180778740799898,
+        "tornAwardedFloat": 590.389370399949,
+        "tornAwardedERC20": "590389370399949000000"
+    },
+    "0xC90Ae6041A653E4C07cec4ED4A89d8D5707C39B1": {
+        "votesDecimal": "991.790000000000000000",
+        "votesFloat": 991.79,
+        "percentTotal": 0.005225624699695217,
+        "tornAwardedFloat": 261.28123498476083,
+        "tornAwardedERC20": "261281234984760830000"
+    },
+    "0x7E8e66E8834F762077dEeC97F792d83092EBE431": {
+        "votesDecimal": ".939886595706669000",
+        "votesFloat": 0.93988,
+        "percentTotal": 0.0000049521170235125795,
+        "tornAwardedFloat": 0.24760585117562897,
+        "tornAwardedERC20": "247605851175628970"
+    },
+    "0xF71EB59210eed86E727d76f434A2694238213dEB": {
+        "votesDecimal": "36.578133734508070000",
+        "votesFloat": 36.57813,
+        "percentTotal": 0.000192725858898217,
+        "tornAwardedFloat": 9.63629294491085,
+        "tornAwardedERC20": "9636292944910850000"
+    },
+    "0xDf86D9Ca55e2EbF191d11337D962d5686893B4e2": {
+        "votesDecimal": "181.601000000000000000",
+        "votesFloat": 181.601,
+        "percentTotal": 0.0009568342805325231,
+        "tornAwardedFloat": 47.84171402662616,
+        "tornAwardedERC20": "47841714026626160000"
+    },
+    "0xCEE4A28f619e0cC11026640e2A2e430beBE68eF5": {
+        "votesDecimal": "1280.000000000000000000",
+        "votesFloat": 1280,
+        "percentTotal": 0.0067441692451122495,
+        "tornAwardedFloat": 337.20846225561246,
+        "tornAwardedERC20": "337208462255612460000"
+    },
+    "0xd461B2871B39E84FD33293b70254a6359f84Dd45": {
+        "votesDecimal": "74.000000000000000000",
+        "votesFloat": 74,
+        "percentTotal": 0.0003898972844830519,
+        "tornAwardedFloat": 19.494864224152597,
+        "tornAwardedERC20": "19494864224152597000"
+    },
+    "0xDcdB53E8E1123BAA64a0B7d3Da13E360CA843797": {
+        "votesDecimal": "6.142251570377800500",
+        "votesFloat": 6.14225,
+        "percentTotal": 0.000032362791832648996,
+        "tornAwardedFloat": 1.61813959163245,
+        "tornAwardedERC20": "1618139591632450000"
+    },
+    "0x93894B6033089C014E62c8f73f8d34156385ebE2": {
+        "votesDecimal": "76.697920859162610000",
+        "votesFloat": 76.69792,
+        "percentTotal": 0.00040411230720943723,
+        "tornAwardedFloat": 20.20561536047186,
+        "tornAwardedERC20": "20205615360471860000"
+    },
+    "0x728A62B9dFD33E509aa08b68aBa414EDA4500824": {
+        "votesDecimal": "1458.386862690876900000",
+        "votesFloat": 1458.38686,
+        "percentTotal": 0.0076840686005373625,
+        "tornAwardedFloat": 384.20343002686815,
+        "tornAwardedERC20": "384203430026868150000"
+    },
+    "0x3D9e1003164d96Ef2ed0ff5d68DFc7A74473604d": {
+        "votesDecimal": "13.885847152214138000",
+        "votesFloat": 13.88584,
+        "percentTotal": 0.00007316285552386679,
+        "tornAwardedFloat": 3.658142776193339,
+        "tornAwardedERC20": "3658142776193339000"
+    },
+    "0xb3522064694Ac9870Dbf00eEBC2712762193Bb64": {
+        "votesDecimal": "11.329922971018890000",
+        "votesFloat": 11.32992,
+        "percentTotal": 0.00005969601407311108,
+        "tornAwardedFloat": 2.9848007036555537,
+        "tornAwardedERC20": "2984800703655553700"
+    },
+    "0x767BeAD0dF7D2418bA59752D17AfC03AB81Eb015": {
+        "votesDecimal": "107.370000000000000000",
+        "votesFloat": 107.37,
+        "percentTotal": 0.0005657198842560174,
+        "tornAwardedFloat": 28.28599421280087,
+        "tornAwardedERC20": "28285994212800870000"
+    },
+    "0xAD549C7fcF1bd3E57BCa464D9Dce0A0D561599D1": {
+        "votesDecimal": "75.352000000000000000",
+        "votesFloat": 75.352,
+        "percentTotal": 0.00039702081324820174,
+        "tornAwardedFloat": 19.851040662410085,
+        "tornAwardedERC20": "19851040662410085000"
+    },
+    "0xA60e156cfE32BaE390ce1749d5b6cdf47c3f966F": {
+        "votesDecimal": "36.000000000000000000",
+        "votesFloat": 36,
+        "percentTotal": 0.000189679760018782,
+        "tornAwardedFloat": 9.483988000939101,
+        "tornAwardedERC20": "9483988000939101000"
+    },
+    "0x6fb4becf05497b79F0fCF61CfA5075efAA137DDF": {
+        "votesDecimal": "10.258000000000000000",
+        "votesFloat": 10.258,
+        "percentTotal": 0.000054048193840907384,
+        "tornAwardedFloat": 2.7024096920453693,
+        "tornAwardedERC20": "2702409692045369300"
+    },
+    "0x3B1847A0D5B5F889F68c0255ecAd95d989d76Cf6": {
+        "votesDecimal": "5.000000000000000000",
+        "votesFloat": 5,
+        "percentTotal": 0.000026344411113719724,
+        "tornAwardedFloat": 1.3172205556859862,
+        "tornAwardedERC20": "1317220555685986200"
+    },
+    "0x9428E55418755b2F902D3B1f898A871AB5634182": {
+        "votesDecimal": "195.441907507756000000",
+        "votesFloat": 195.4419,
+        "percentTotal": 0.0010297603524893,
+        "tornAwardedFloat": 51.488017624464995,
+        "tornAwardedERC20": "51488017624464995000"
+    },
+    "0xdFe14fa0C322E34039D33400638771876398Ad88": {
+        "votesDecimal": "3376.150000000000000000",
+        "votesFloat": 3376.15,
+        "percentTotal": 0.01778853671631697,
+        "tornAwardedFloat": 889.4268358158486,
+        "tornAwardedERC20": "889426835815848600000"
+    },
+    "0xFCFA4369EAa965AC4e36f1Dd9fd2852C6542b0F7": {
+        "votesDecimal": ".40000000000000",
+        "votesFloat": 0.4,
+        "percentTotal": 0.0000021075528890975782,
+        "tornAwardedFloat": 0.10537764445487892,
+        "tornAwardedERC20": "105377644454878920"
+    },
+    "0x5dab475E601D55efa2290D27333913e025C7Bd89": {
+        "votesDecimal": "397.669092629177700000",
+        "votesFloat": 397.66909,
+        "percentTotal": 0.002095271598835762,
+        "tornAwardedFloat": 104.7635799417881,
+        "tornAwardedERC20": "104763579941788100000"
+    },
+    "0xEBf919b0DAfb9ea4BF324108A142C64A69052D8f": {
+        "votesDecimal": "12892.904595729080000000",
+        "votesFloat": 12892.90459,
+        "percentTotal": 0.06793119579378482,
+        "tornAwardedFloat": 3396.559789689241,
+        "tornAwardedERC20": "3396559789689241000000"
+    },
+    "0x0D57DCa1B658dA56fAbc86D94A08bA07557c2a08": {
+        "votesDecimal": "2358.226206472910100000",
+        "votesFloat": 2358.2262,
+        "percentTotal": 0.012425216102389008,
+        "tornAwardedFloat": 621.2608051194504,
+        "tornAwardedERC20": "621260805119450400000"
+    },
+    "0x1BdB1783505F626A55a5e3dd3e366df1cd69c055": {
+        "votesDecimal": "182.048951700000000000",
+        "votesFloat": 182.04895,
+        "percentTotal": 0.0009591944763242012,
+        "tornAwardedFloat": 47.959723816210065,
+        "tornAwardedERC20": "47959723816210065000"
+    },
+    "0xBFb910652F850F85E3F85AA0C12aE8f4037095b0": {
+        "votesDecimal": "473.634000000000000000",
+        "votesFloat": 473.634,
+        "percentTotal": 0.002495521762687106,
+        "tornAwardedFloat": 124.77608813435529,
+        "tornAwardedERC20": "124776088134355290000"
+    },
+    "0xdB316c70219CAB0533fF84D713C7d88C4DD1EAb4": {
+        "votesDecimal": "2.963444275545494000",
+        "votesFloat": 2.96344,
+        "percentTotal": 0.000015614016334168315,
+        "tornAwardedFloat": 0.7807008167084157,
+        "tornAwardedERC20": "780700816708415700"
+    },
+    "0x8A6Bcdc8Ee45bb61406Ce736c7C9e0B3D9f18d7a": {
+        "votesDecimal": "404.080017941395757061",
+        "votesFloat": 404.08001,
+        "percentTotal": 0.0021290499812551956,
+        "tornAwardedFloat": 106.45249906275978,
+        "tornAwardedERC20": "106452499062759780000"
+    },
+    "0x51752A4d3F6C7d73c4bC801519e41F5773D3e5e8": {
+        "votesDecimal": "360.000000000000000000",
+        "votesFloat": 360,
+        "percentTotal": 0.0018967976001878202,
+        "tornAwardedFloat": 94.83988000939101,
+        "tornAwardedERC20": "94839880009391010000"
+    },
+    "0xFadAFCE89EA2221fa33005640Acf2C923312F2b9": {
+        "votesDecimal": "75.000000000000000011",
+        "votesFloat": 75,
+        "percentTotal": 0.0003951661667057959,
+        "tornAwardedFloat": 19.758308335289794,
+        "tornAwardedERC20": "19758308335289794000"
+    },
+    "0x7ad7100117eE2554605f500007bAdA9d936a6052": {
+        "votesDecimal": "196.889442490061600000",
+        "votesFloat": 196.88944,
+        "percentTotal": 0.0010373872702620105,
+        "tornAwardedFloat": 51.869363513100524,
+        "tornAwardedERC20": "51869363513100524000"
+    },
+    "0x06B1Bf28C962363F212878BDF87417Ebd0316220": {
+        "votesDecimal": "25.043000000000000000",
+        "votesFloat": 25.043,
+        "percentTotal": 0.00013194861750417662,
+        "tornAwardedFloat": 6.597430875208831,
+        "tornAwardedERC20": "6597430875208831000"
+    },
+    "0x5E8e10c6Fd59f2ECE066aEcC259164Bf382B01d5": {
+        "votesDecimal": "523.000000000000000000",
+        "votesFloat": 523,
+        "percentTotal": 0.002755625402495083,
+        "tornAwardedFloat": 137.78127012475414,
+        "tornAwardedERC20": "137781270124754140000"
+    },
+    "0x30eB4c1A534351662C1AE273b8986862B60Fa079": {
+        "votesDecimal": "85.684242077631720562",
+        "votesFloat": 85.68424,
+        "percentTotal": 0.00045146016890532564,
+        "tornAwardedFloat": 22.573008445266282,
+        "tornAwardedERC20": "22573008445266282000"
+    },
+    "0xEab23c1E3776fAd145e2E3dc56bcf739f6e0a393": {
+        "votesDecimal": "696.800000000000000000",
+        "votesFloat": 696.8,
+        "percentTotal": 0.0036713571328079804,
+        "tornAwardedFloat": 183.56785664039901,
+        "tornAwardedERC20": "183567856640399010000"
+    },
+    "0xd43f3716CbB9386352880a9BD52f7F07aC01752B": {
+        "votesDecimal": "43.000000000000000000",
+        "votesFloat": 43,
+        "percentTotal": 0.00022656193557798963,
+        "tornAwardedFloat": 11.328096778899482,
+        "tornAwardedERC20": "11328096778899482000"
+    },
+    "0x4042F4142B026C9F980C7906060A80f57090D63b": {
+        "votesDecimal": "109.096485658053854173",
+        "votesFloat": 109.09648,
+        "percentTotal": 0.0005748165040359403,
+        "tornAwardedFloat": 28.740825201797016,
+        "tornAwardedERC20": "28740825201797016000"
+    },
+    "0xd0D6e0e58fE68bd495B4FD56bfF3B19676460272": {
+        "votesDecimal": "3.606826293286721155",
+        "votesFloat": 3.60682,
+        "percentTotal": 0.000019003909778637314,
+        "tornAwardedFloat": 0.9501954889318657,
+        "tornAwardedERC20": "950195488931865700"
+    },
+    "0x0EaC366A89A706704B5960e7960D03eeaEc42DA6": {
+        "votesDecimal": "4.463628100000000000",
+        "votesFloat": 4.46362,
+        "percentTotal": 0.000023518288067084327,
+        "tornAwardedFloat": 1.1759144033542164,
+        "tornAwardedERC20": "1175914403354216400"
+    },
+    "0x84BB14595Fd30a53cbE18e68085D42645901D8B6": {
+        "votesDecimal": "2682.098027149965960000",
+        "votesFloat": 2682.09802,
+        "percentTotal": 0.014131658577234734,
+        "tornAwardedFloat": 706.5829288617367,
+        "tornAwardedERC20": "706582928861736700000"
+    },
+    "0x6C3FEB976548Ce412Ff1814eB8EEe82f48eAA008": {
+        "votesDecimal": "2.000000000000000000",
+        "votesFloat": 2,
+        "percentTotal": 0.00001053776444548789,
+        "tornAwardedFloat": 0.5268882222743946,
+        "tornAwardedERC20": "526888222274394600"
+    },
+    "0xDd1c01436c4889Fa64C02b5b17e10B987D66da71": {
+        "votesDecimal": "552.468983363665500000",
+        "votesFloat": 552.46898,
+        "percentTotal": 0.00291089398733948,
+        "tornAwardedFloat": 145.54469936697402,
+        "tornAwardedERC20": "145544699366974020000"
+    },
+    "0x466A65f974b16D0AC13AB857cc669f88C4BE1624": {
+        "votesDecimal": "585.810000000000000000",
+        "votesFloat": 585.81,
+        "percentTotal": 0.00308656389490563,
+        "tornAwardedFloat": 154.3281947452815,
+        "tornAwardedERC20": "154328194745281500000"
+    },
+    "0x643ad19a294e358a6FE20c6DE0acD545a9E03b23": {
+        "votesDecimal": "23.400000000000000000",
+        "votesFloat": 23.4,
+        "percentTotal": 0.0001232918440122083,
+        "tornAwardedFloat": 6.164592200610415,
+        "tornAwardedERC20": "6164592200610415000"
+    },
+    "0xD88189f7Dee6E5DBd6cbC6F06FD357f4Bf7f330b": {
+        "votesDecimal": "2354.221596274304400000",
+        "votesFloat": 2354.22159,
+        "percentTotal": 0.012404116283950984,
+        "tornAwardedFloat": 620.2058141975492,
+        "tornAwardedERC20": "620205814197549200000"
+    },
+    "0x290AA5081D6298C181949946893876A1B76Bf144": {
+        "votesDecimal": "300.000000000000000000",
+        "votesFloat": 300,
+        "percentTotal": 0.0015806646668231835,
+        "tornAwardedFloat": 79.03323334115917,
+        "tornAwardedERC20": "79033233341159170000"
+    },
+    "0x9cBB7B603b2Accf841DA833F5257Db8B11632653": {
+        "votesDecimal": "35.477210466531986000",
+        "votesFloat": 35.47721,
+        "percentTotal": 0.0001869252410815537,
+        "tornAwardedFloat": 9.346262054077686,
+        "tornAwardedERC20": "9346262054077686000"
+    },
+    "0x356eE97D7D560af2E97E9f9EEe56b2e09D60e6F5": {
+        "votesDecimal": "3877.315956227445877636",
+        "votesFloat": 3877.31595,
+        "percentTotal": 0.020429121080916553,
+        "tornAwardedFloat": 1021.4560540458276,
+        "tornAwardedERC20": "1021456054045827600000"
+    },
+    "0x28A6178fF4b3B9Fed32b9ACcB0bABe8FE412d2eE": {
+        "votesDecimal": "305.000000000000000000",
+        "votesFloat": 305,
+        "percentTotal": 0.0016070090779369032,
+        "tornAwardedFloat": 80.35045389684517,
+        "tornAwardedERC20": "80350453896845170000"
+    },
+    "0xe09fcbE1937316dC65CBC6C393b0DFd486d84279": {
+        "votesDecimal": "895.673461063628712990",
+        "votesFloat": 895.67346,
+        "percentTotal": 0.0047191979707775595,
+        "tornAwardedFloat": 235.95989853887798,
+        "tornAwardedERC20": "235959898538877980000"
+    },
+    "0xfF2Fed9Cb48196eC35fd97b290C583E7a63b17b7": {
+        "votesDecimal": "320.000000000000000000",
+        "votesFloat": 320,
+        "percentTotal": 0.0016860423112780624,
+        "tornAwardedFloat": 84.30211556390312,
+        "tornAwardedERC20": "84302115563903120000"
+    },
+    "0x435Df39B44cAe3a6a657aa8DD5c27d716af87952": {
+        "votesDecimal": "84.000000000000000000",
+        "votesFloat": 84,
+        "percentTotal": 0.0004425861067104914,
+        "tornAwardedFloat": 22.12930533552457,
+        "tornAwardedERC20": "22129305335524570000"
+    },
+    "0xCBfB423D668F848866427089E8527474dbbE4a58": {
+        "votesDecimal": "4221.020965858971000000",
+        "votesFloat": 4221.02096,
+        "percentTotal": 0.02224006229797358,
+        "tornAwardedFloat": 1112.003114898679,
+        "tornAwardedERC20": "1112003114898679000000"
+    },
+    "0x055AD5E56c11c0eF55818155c69ed9BA2f4b3e90": {
+        "votesDecimal": "10395.026886045654000000",
+        "votesFloat": 10395.02688,
+        "percentTotal": 0.05477017233297745,
+        "tornAwardedFloat": 2738.5086166488727,
+        "tornAwardedERC20": "2738508616648872700000"
+    },
+    "0x020D6c2e412094EA0e11B4c47a6c6A2B6DcF7b2d": {
+        "votesDecimal": "315.447561120000000000",
+        "votesFloat": 315.44756,
+        "percentTotal": 0.001662056041091954,
+        "tornAwardedFloat": 83.1028020545977,
+        "tornAwardedERC20": "83102802054597700000"
+    },
+    "0xbFe283886CeE82188D5dde1CF6DC8b928CC78B6D": {
+        "votesDecimal": "808.400000000000000000",
+        "votesFloat": 808.4,
+        "percentTotal": 0.004259364388866205,
+        "tornAwardedFloat": 212.96821944331023,
+        "tornAwardedERC20": "212968219443310230000"
+    },
+    "0x686d0B9D00cE38533F6Fb009CaB058757f37A904": {
+        "votesDecimal": "62.800000000000000000",
+        "votesFloat": 62.8,
+        "percentTotal": 0.00033088580358831975,
+        "tornAwardedFloat": 16.544290179415988,
+        "tornAwardedERC20": "16544290179415988000"
+    },
+    "0x832217764A804D1AAe4007a2bC4F5B6527a979d0": {
+        "votesDecimal": "763.000000000000000000",
+        "votesFloat": 763,
+        "percentTotal": 0.00402015713595363,
+        "tornAwardedFloat": 201.0078567976815,
+        "tornAwardedERC20": "201007856797681500000"
+    },
+    "0x9220910945de631FEec536748B56945d0fBFd2eE": {
+        "votesDecimal": "334.400000000000000000",
+        "votesFloat": 334.4,
+        "percentTotal": 0.001761914215285575,
+        "tornAwardedFloat": 88.09571076427875,
+        "tornAwardedERC20": "88095710764278750000"
+    },
+    "0x7D6E0c2a85EcB9E7fDf044C080C51586B210643A": {
+        "votesDecimal": "626.401000000000000000",
+        "votesFloat": 626.401,
+        "percentTotal": 0.0033004330932090297,
+        "tornAwardedFloat": 165.02165466045147,
+        "tornAwardedERC20": "165021654660451470000"
+    },
+    "0xeF4515ADEf1528A955Ac5786332930a91680928b": {
+        "votesDecimal": "132.382246399979800000",
+        "votesFloat": 132.38224,
+        "percentTotal": 0.0006975064309430223,
+        "tornAwardedFloat": 34.87532154715112,
+        "tornAwardedERC20": "34875321547151120000"
+    },
+    "0xbd0fac9A19E8E19F6245eD20411E22D4786752c8": {
+        "votesDecimal": "10.120140074806180000",
+        "votesFloat": 10.12014,
+        "percentTotal": 0.000053321825737679906,
+        "tornAwardedFloat": 2.6660912868839954,
+        "tornAwardedERC20": "2666091286883995400"
+    },
+    "0x7D161DD4db771beB1071B036dE9Be76eb3089A0b": {
+        "votesDecimal": "345.106747472097700000",
+        "votesFloat": 345.10674,
+        "percentTotal": 0.0018183267673351168,
+        "tornAwardedFloat": 90.91633836675584,
+        "tornAwardedERC20": "90916338366755840000"
+    },
+    "0xe7A784aCB145bD8993e83d41ADF43b7c7195e995": {
+        "votesDecimal": "339.159024279975880000",
+        "votesFloat": 339.15902,
+        "percentTotal": 0.0017869889311612581,
+        "tornAwardedFloat": 89.34944655806291,
+        "tornAwardedERC20": "89349446558062910000"
+    },
+    "0x20826b5e65b38356FF3aD489794B0C43eBeAB7DB": {
+        "votesDecimal": "552.574097975399208677",
+        "votesFloat": 552.57409,
+        "percentTotal": 0.0029114477995499126,
+        "tornAwardedFloat": 145.57238997749562,
+        "tornAwardedERC20": "145572389977495620000"
+    },
+    "0x8a14E4af27e6e6feC7063a47982D8E300a3787FE": {
+        "votesDecimal": "3358.639294479510959044",
+        "votesFloat": 3358.63929,
+        "percentTotal": 0.017696274847690346,
+        "tornAwardedFloat": 884.8137423845174,
+        "tornAwardedERC20": "884813742384517400000"
+    },
+    "0x6eF3b580B4d1C6c6b33CB2D6cF9E0722E3a8ab40": {
+        "votesDecimal": "409.535465110434408230",
+        "votesFloat": 409.53546,
+        "percentTotal": 0.002157794104777264,
+        "tornAwardedFloat": 107.8897052388632,
+        "tornAwardedERC20": "107889705238863200000"
+    },
+    "0xC3cEd05096C6a3Fc82988a95A6b86206b943FF97": {
+        "votesDecimal": "7241.838902814176000000",
+        "votesFloat": 7241.8389,
+        "percentTotal": 0.03815639624018556,
+        "tornAwardedFloat": 1907.8198120092782,
+        "tornAwardedERC20": "1907819812009278200000"
+    },
+    "0xB1851F797B1233601A790C133c67f0691Fefa99d": {
+        "votesDecimal": "200.000000000000000000",
+        "votesFloat": 200,
+        "percentTotal": 0.001053776444548789,
+        "tornAwardedFloat": 52.68882222743945,
+        "tornAwardedERC20": "52688822227439450000"
+    },
+    "0xa42e82C8Cb31068B240772eC69685ffc59b7Fd11": {
+        "votesDecimal": "525.054489581239897762",
+        "votesFloat": 525.05448,
+        "percentTotal": 0.002766450215644066,
+        "tornAwardedFloat": 138.3225107822033,
+        "tornAwardedERC20": "138322510782203300000"
+    },
+    "0x10890742A1a20A936132072C20Ae77b081486190": {
+        "votesDecimal": "175.976895656501770000",
+        "votesFloat": 175.97689,
+        "percentTotal": 0.0009272015073347666,
+        "tornAwardedFloat": 46.360075366738336,
+        "tornAwardedERC20": "46360075366738336000"
+    },
+    "0x99eb33756a2eAa32f5964A747722c4b59e6aF351": {
+        "votesDecimal": "36.226240526686711448",
+        "votesFloat": 36.22624,
+        "percentTotal": 0.0001908717919328556,
+        "tornAwardedFloat": 9.54358959664278,
+        "tornAwardedERC20": "9543589596642780000"
+    },
+    "0x877088766252Db019A0083Da0F1418019Ae37eb2": {
+        "votesDecimal": "80.000000000000000000",
+        "votesFloat": 80,
+        "percentTotal": 0.0004215105778195156,
+        "tornAwardedFloat": 21.07552889097578,
+        "tornAwardedERC20": "21075528890975780000"
+    },
+    "0xf4C98353a2B3Cd6986eCd69a46dfF536E642a493": {
+        "votesDecimal": "100.000000000000000000",
+        "votesFloat": 100,
+        "percentTotal": 0.0005268882222743945,
+        "tornAwardedFloat": 26.344411113719726,
+        "tornAwardedERC20": "26344411113719726000"
+    },
+    "0x7117fb4E85286c159EFa691a7699587Ccd01E26E": {
+        "votesDecimal": "16.736013338857684376",
+        "votesFloat": 16.73601,
+        "percentTotal": 0.00008818006556866489,
+        "tornAwardedFloat": 4.409003278433245,
+        "tornAwardedERC20": "4409003278433245000"
+    },
+    "0x647e9e26DA82C29AAFbbFB1C3f45d916AA9b300d": {
+        "votesDecimal": "3462.886910067235684148",
+        "votesFloat": 3462.88691,
+        "percentTotal": 0.018245543279471713,
+        "tornAwardedFloat": 912.2771639735856,
+        "tornAwardedERC20": "912277163973585600000"
+    },
+    "0x544a18a548E09c2555d93A396D7A094A2F66f7B2": {
+        "votesDecimal": "9.000599163261805337",
+        "votesFloat": 9.00059,
+        "percentTotal": 0.000047423048645206925,
+        "tornAwardedFloat": 2.371152432260346,
+        "tornAwardedERC20": "2371152432260346000"
+    },
+    "0x4742ddFE858109045BB59683AeA769fa6760c4c2": {
+        "votesDecimal": "2.009995920631938072",
+        "votesFloat": 2.00999,
+        "percentTotal": 0.000010590400578893104,
+        "tornAwardedFloat": 0.5295200289446552,
+        "tornAwardedERC20": "529520028944655200"
+    },
+    "0x0ff81614c04F6Fd075F9521EAAC9816A2FE82CED": {
+        "votesDecimal": "111.386509154854135907",
+        "votesFloat": 111.3865,
+        "percentTotal": 0.0005868823497036684,
+        "tornAwardedFloat": 29.34411748518342,
+        "tornAwardedERC20": "29344117485183420000"
+    },
+    "0xeBF9F70a8C0878d7e701c583bF096D0335623693": {
+        "votesDecimal": "18.000000000000000000",
+        "votesFloat": 18,
+        "percentTotal": 0.000094839880009391,
+        "tornAwardedFloat": 4.741994000469551,
+        "tornAwardedERC20": "4741994000469551000"
+    },
+    "0xDdbfCEd30862c0105673B38dFf5e941cf48830e4": {
+        "votesDecimal": "1098.193859326668958810",
+        "votesFloat": 1098.19385,
+        "percentTotal": 0.005786254053391731,
+        "tornAwardedFloat": 289.31270266958654,
+        "tornAwardedERC20": "289312702669586540000"
+    },
+    "0x78c0A25CcC21604B3D117100DE7c9523f53236C7": {
+        "votesDecimal": "2.402374176395754213",
+        "votesFloat": 2.40237,
+        "percentTotal": 0.000012657804585453371,
+        "tornAwardedFloat": 0.6328902292726686,
+        "tornAwardedERC20": "632890229272668600"
+    },
+    "0x6b976827b3EC5BFd0B8A12335018F698dA04f6D4": {
+        "votesDecimal": "114.609326897798585852",
+        "votesFloat": 114.60932,
+        "percentTotal": 0.000603863008708772,
+        "tornAwardedFloat": 30.193150435438604,
+        "tornAwardedERC20": "30193150435438604000"
+    },
+    "0x8E135A49282863157BdB05063a54FE26DBDD2628": {
+        "votesDecimal": "9.590845733947677886",
+        "votesFloat": 9.59084,
+        "percentTotal": 0.00005053300637718154,
+        "tornAwardedFloat": 2.526650318859077,
+        "tornAwardedERC20": "2526650318859077000"
+    },
+    "0x357dfdC34F93388059D2eb09996d80F233037cBa": {
+        "votesDecimal": "250.000000000000000000",
+        "votesFloat": 250,
+        "percentTotal": 0.0013172205556859862,
+        "tornAwardedFloat": 65.86102778429931,
+        "tornAwardedERC20": "65861027784299310000"
+    },
+    "0x0e81F7af4698Cfe49cF5099A7D1e3E4421D5d1AF": {
+        "votesDecimal": "22.000000000000000000",
+        "votesFloat": 22,
+        "percentTotal": 0.00011591540890036679,
+        "tornAwardedFloat": 5.79577044501834,
+        "tornAwardedERC20": "5795770445018340000"
+    },
+    "0x3716905b040D5cd8a7DdE784918199117d72c3B3": {
+        "votesDecimal": "13.447346588653088254",
+        "votesFloat": 13.44734,
+        "percentTotal": 0.00007085245066919357,
+        "tornAwardedFloat": 3.5426225334596784,
+        "tornAwardedERC20": "3542622533459678400"
+    },
+    "0xA8d95752B79cDd43dFacdB0bD16cF28CacB7A29B": {
+        "votesDecimal": "1261.729656491002368039",
+        "votesFloat": 1261.72965,
+        "percentTotal": 0.00664790492279394,
+        "tornAwardedFloat": 332.395246139697,
+        "tornAwardedERC20": "332395246139697000000"
+    },
+    "0xbEA07b01E8Fe3936A3D206158521A87addB65cfE": {
+        "votesDecimal": "7387.200185868532937990",
+        "votesFloat": 7387.20018,
+        "percentTotal": 0.03892228770425287,
+        "tornAwardedFloat": 1946.1143852126436,
+        "tornAwardedERC20": "1946114385212643600000"
+    },
+    "0x5C2C3764A4Ba0a4ea4B81532aa48e3A72AD0655B": {
+        "votesDecimal": "23.818308151537239500",
+        "votesFloat": 23.8183,
+        "percentTotal": 0.0001254958174459821,
+        "tornAwardedFloat": 6.274790872299105,
+        "tornAwardedERC20": "6274790872299105000"
+    },
+    "0x289922fBBfBd38472D7e2A1652B33b834f7c0E49": {
+        "votesDecimal": "200.000000000000000000",
+        "votesFloat": 200,
+        "percentTotal": 0.001053776444548789,
+        "tornAwardedFloat": 52.68882222743945,
+        "tornAwardedERC20": "52688822227439450000"
+    },
+    "0x357339FEDDeA0deE23Cecf9117Ea02aC5FE707Cb": {
+        "votesDecimal": "2901.610655327584763094",
+        "votesFloat": 2901.61065,
+        "percentTotal": 0.015288244771109504,
+        "tornAwardedFloat": 764.4122385554751,
+        "tornAwardedERC20": "764412238555475100000"
+    },
+    "0xb0cE77b18b8663Baa0D6be63B7C5eE0bdF933001": {
+        "votesDecimal": "135.944177824855552323",
+        "votesFloat": 135.94417,
+        "percentTotal": 0.0007162738205986808,
+        "tornAwardedFloat": 35.81369102993404,
+        "tornAwardedERC20": "35813691029934040000"
+    },
+    "0xAbd252CfbaE138043e4fB5E667B489710964D572": {
+        "votesDecimal": "40.000000000000000000",
+        "votesFloat": 40,
+        "percentTotal": 0.0002107552889097578,
+        "tornAwardedFloat": 10.53776444548789,
+        "tornAwardedERC20": "10537764445487890000"
+    },
+    "0xD74456aBB45681953D0087aD5E20c1c08464835e": {
+        "votesDecimal": "5.000000000000000000",
+        "votesFloat": 5,
+        "percentTotal": 0.000026344411113719724,
+        "tornAwardedFloat": 1.3172205556859862,
+        "tornAwardedERC20": "1317220555685986200"
+    },
+    "0x9Efb9f2A73833c30686487d53246aB11Ce96163d": {
+        "votesDecimal": "370.000000000000000000",
+        "votesFloat": 370,
+        "percentTotal": 0.0019494864224152597,
+        "tornAwardedFloat": 97.47432112076298,
+        "tornAwardedERC20": "97474321120762980000"
+    },
+    "0xD2B105c24F7ff289e64e044837f6e308740D10A2": {
+        "votesDecimal": "34.216718136606558542",
+        "votesFloat": 34.21671,
+        "percentTotal": 0.00018028381503978495,
+        "tornAwardedFloat": 9.014190751989247,
+        "tornAwardedERC20": "9014190751989247000"
+    },
+    "0x95Be36B3F6a5DC958c59a4a81FdF0BEE671f26F3": {
+        "votesDecimal": "450.000000000000000000",
+        "votesFloat": 450,
+        "percentTotal": 0.0023709970002347754,
+        "tornAwardedFloat": 118.54985001173877,
+        "tornAwardedERC20": "118549850011738770000"
+    },
+    "0xF4880975728EE25A96C701c225c9EF58Eebe5a5b": {
+        "votesDecimal": "5.000000000000000000",
+        "votesFloat": 5,
+        "percentTotal": 0.000026344411113719724,
+        "tornAwardedFloat": 1.3172205556859862,
+        "tornAwardedERC20": "1317220555685986200"
+    },
+    "0xB8358C572C4A08DD1dFEB8AcC80c4891f42e0899": {
+        "votesDecimal": "500.000000000000000000",
+        "votesFloat": 500,
+        "percentTotal": 0.0026344411113719724,
+        "tornAwardedFloat": 131.72205556859862,
+        "tornAwardedERC20": "131722055568598620000"
+    },
+    "0x1CE7DC66CC98c61A573105514d073D64a9a8608f": {
+        "votesDecimal": "273.000484758732440659",
+        "votesFloat": 273.00048,
+        "percentTotal": 0.0014384073758725638,
+        "tornAwardedFloat": 71.92036879362819,
+        "tornAwardedERC20": "71920368793628190000"
+    },
+    "0xa729adDeFe1fa7BCe87053ed55D55EDdDD13De60": {
+        "votesDecimal": "85.137868679466799037",
+        "votesFloat": 85.13786,
+        "percentTotal": 0.0004485813570364628,
+        "tornAwardedFloat": 22.42906785182314,
+        "tornAwardedERC20": "22429067851823140000"
+    },
+    "0xF1e43Ede41881FDfB7868AB506236DBd6ec63329": {
+        "votesDecimal": "122.000000000000000000",
+        "votesFloat": 122,
+        "percentTotal": 0.0006428036311747613,
+        "tornAwardedFloat": 32.140181558738064,
+        "tornAwardedERC20": "32140181558738064000"
+    }
+}
